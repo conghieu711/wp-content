@@ -1,3 +1,3 @@
 <?php
 // Silence is golden.
-echo "Hello WP-CONTENT -- :)";
+echo "Hello WP-CONTENT --- :)";
